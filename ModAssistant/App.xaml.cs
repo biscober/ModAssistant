@@ -55,7 +55,7 @@ namespace ModAssistant
 
             if (e.Args.Length == 0)
             {
-                Updater.Run();
+                // Updater.Run();
 
                 MainWindow window = new MainWindow();
                 window.Show();
