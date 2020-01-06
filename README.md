@@ -8,5 +8,6 @@ Has features such as:
 * Installed Mod detection
 * Mod removal
 * One Click Installs support
+* Hypocritical anti-piracy check removed
 
 ![Preview](https://assistant.moe/files/ModAssistant.png)
