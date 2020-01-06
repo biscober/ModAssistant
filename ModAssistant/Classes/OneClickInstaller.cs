@@ -192,8 +192,10 @@ namespace ModAssistant
 
             if (Background)
                 Application.Current.Shutdown();
+            /*
             else
                 Pages.Options.Instance.UpdateHandlerStatus();
+            */
         }
 
         public static void Unregister(string Protocol, bool Background = false)
@@ -227,8 +229,10 @@ namespace ModAssistant
 
             if (Background)
                 Application.Current.Shutdown();
+            /*
             else
                 Pages.Options.Instance.UpdateHandlerStatus();
+            */
         }
 
         public static bool IsRegistered(string Protocol)
